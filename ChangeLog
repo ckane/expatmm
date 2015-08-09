@@ -1,0 +1,27 @@
+2009-09-18	Coleman Kane	<ckane@intellitree.com>
+
+	* Release ExpatMM version 1.0.2
+	* Marked this as a 'foreign'-style automake project
+
+2009-09-04	Coleman Kane	<ckane@intellitree.com>
+
+	* Committed a fix I received from Joe Thaler <joe.thaler@gmail.com>
+	  which fixes buffer initialization when sizeof(XML_Char) !=
+	  sizeof(char)
+
+2009-01-07	Coleman Kane	<ckane@intellitree.com>
+
+	* Release ExpatMM version 1.0.1
+	* Set copyrights to 2009
+	* Mike fixed the directory expansion to find expatmm.h during build
+	* Mike fixed an encoding error by setting the default encoding to
+	  NULL
+
+2007-12-01	Coleman Kane	<ckane@intellitree.com>
+
+	* Initial Release of ExpatMM version 1.0.0
+	* Includes ExpatXMLParser, a generic parser that reads from a user-supplied
+	  data source.
+	* Includes ExpatXMLFileParser, an implementation of ExpatXMLParser that takes
+	  input from a named file
+
