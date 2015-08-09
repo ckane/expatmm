@@ -4,6 +4,25 @@ ExpatMM XML Parser class for C++ based upon Expat (http://www.libexpat.org)
 * Author: Coleman Kane <ckane@colemankane.org>
 * Website: http://github.com/ckane/expatmm
 
+#Building
+You will need the libexpat headers installed, as well as autoconf, automake, libtool, etc.
+
+Run the autogen script:
+```bash
+./autogen.sh
+```
+
+Then, you should be able to run configure (see --help for extra options):
+```bash
+./configure --prefix=/usr/local
+```
+
+Then, make & install:
+```bash
+make
+sudo make install
+```
+
 #Usage
 
 ExpatMM implements an XML parser as a class, providing virtual methods for the various events that
