@@ -1,5 +1,10 @@
 /* 
  * ExpatMM - C++ Wrapper for Expat available at http://expat.sourceforge.net/
+ * Copyright (c) 2015 Coleman Kane
+ * Author: Coleman Kane <ckane@colemankane.org>
+ * Website: https://github.com/ckane/expatmm
+ *
+ * ExpatMM - C++ Wrapper for Expat available at http://expat.sourceforge.net/
  * Copyright (c) 2007, 2008, 2009 IntelliTree Solutions llc
  * Author: Coleman Kane <ckane@intellitree.com>
  *

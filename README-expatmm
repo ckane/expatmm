@@ -1,5 +1,6 @@
 ExpatMM XML Parser class for C++ based upon Expat (http://www.libexpat.org)
-Author: Coleman Kane <ckane@intellitree.com>
+Author: Coleman Kane <ckane@colemankane.org>
+Website: http://github.com/ckane/expatmm
 
 Preface
 -------

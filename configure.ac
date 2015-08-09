@@ -1,4 +1,8 @@
-# IntelliTree User Interface library
+# ExpatMM project configure script
+#
+# Copyright (C) 2015 Coleman Kane
+# Written by Coleman Kane <ckane@colemankane.org>
+#
 # Copyright (C) 2006, 2007, 2008, 2009 IntelliTree Solutions llc
 # Written by Coleman Kane <ckane@intellitree.com>
 # 
@@ -6,7 +10,7 @@
 # to re-process this file and update configure after changing it. This is
 # the standard part of an "Autotooled" build system
 #
-AC_INIT(expatmm,1.0.2,Coleman Kane <ckane@intellitree.com>)
+AC_INIT(expatmm,1.0.3,Coleman Kane <ckane@colemankane.org>)
   AC_CANONICAL_TARGET
   AC_LANG(C++)
   AC_PREREQ(2.59)
