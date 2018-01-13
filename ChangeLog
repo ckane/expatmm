@@ -1,3 +1,7 @@
+2018-01-12	Coleman Kane	<ckane@colemankane.org>
+	* Release ExpatMM version 1.0.4
+	* Use system's libtoolize in autogen.sh and remove my ltmain.sh copy
+
 2015-08-09	Coleman Kane	<ckane@colemankane.org>
 	* Release ExpatMM version 1.0.3
 	* Take over maintainership at github

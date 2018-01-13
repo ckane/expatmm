@@ -10,7 +10,7 @@
 # to re-process this file and update configure after changing it. This is
 # the standard part of an "Autotooled" build system
 #
-AC_INIT(expatmm,1.0.3,Coleman Kane <ckane@colemankane.org>)
+AC_INIT(expatmm,1.0.4,Coleman Kane <ckane@colemankane.org>)
   AC_CANONICAL_TARGET
   AC_LANG(C++)
   AC_PREREQ(2.59)
