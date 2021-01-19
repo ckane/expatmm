@@ -1,3 +1,6 @@
+2021-01-19	Coleman Kane	<ckane@colemankane.org>
+        * Update the autogen.sh script to look for glibtoolize when it cannot find libtoolize
+	
 2018-01-12	Coleman Kane	<ckane@colemankane.org>
 	* Release ExpatMM version 1.0.4
 	* Use system's libtoolize in autogen.sh and remove my ltmain.sh copy
