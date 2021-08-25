@@ -1,6 +1,6 @@
 /* 
- * ExpatMM - C++ Wrapper for Expat available at http://expat.sourceforge.net/
- * Copyright (c) 2015 Coleman Kane
+ * ExpatMM - C++ Wrapper for Expat available at http://github.com/ckane/expatmm
+ * Copyright (c) 2015-2021 Coleman Kane
  * Author: Coleman Kane <ckane@colemankane.org>
  * Website: https://github.com/ckane/expatmm
  *
@@ -22,15 +22,6 @@
  * to contact the author listed above.
  */
 /*
- * ExpatMM - C++ Wrapper for Expat available at http://expat.sourceforge.net/
- * Copyright (c) 2015 Coleman Kane
- * Author: Coleman Kane <ckane@colemankane.org>
- * Website: https://github.com/ckane/expatmm
- *
- * IntelliTree ExpatMM C++ Parser Library
- * Copyright (C) 2006, 2007 IntelliTree Solutions llc
- * Written by Coleman Kane <ckane@intellitree.com>
- *
  * Extension of the ExpatXMLParser to handle named files
  *
  */
